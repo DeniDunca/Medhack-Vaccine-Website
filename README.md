@@ -1,5 +1,5 @@
 # medhack
-Hackathon -MedHack Application - Vaccination for kids - Java Spring, ReactJS
+Hackathon -MedHack Application - Vaccination for children - Java Spring, ReactJS
 
 # Log in page
 ![image](https://github.com/DeniDunca/medhack/assets/61636465/29383b63-ee9d-44c8-89f4-bc5d89dbe9e8)
